@@ -32,7 +32,7 @@ class Navbar extends Component {
             );
           })}
         </ul>
-        <Button>Button 1</Button>
+        <Button buttonStyle="btn--lgradient">Button 1</Button>
       </nav>
     );
   }

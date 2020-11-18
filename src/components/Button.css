@@ -46,3 +46,8 @@
   font-size: 20px;
   color: #fff;
 }
+.btn--lgradient {
+  background: linear-gradient(200deg, #5e17ff 0%, #37b4e9 100%);
+  box-shadow: 0px 20px 40px rgba(147, 231, 221, 0.3);
+  border-radius: 30px;
+}
